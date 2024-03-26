@@ -12,7 +12,7 @@ const songs = [
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
     // Feel free to add even more songs
-];
+];9
 
 
 // Object containing each Guardian's preferred genre
