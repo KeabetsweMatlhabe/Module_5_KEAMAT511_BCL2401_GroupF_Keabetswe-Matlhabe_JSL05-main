@@ -47,7 +47,7 @@ function displayPlaylists(playlists) {
     title.textContent = `${playlist.guardianName}'s Playlist`;
     playlistElement.appendChild(title);
 
-    songs.forEach(song => {
+    playlist.songs.forEach(song => {
 
         const songElement =  document.createElement('div');
         songElement.classList.add('song');
