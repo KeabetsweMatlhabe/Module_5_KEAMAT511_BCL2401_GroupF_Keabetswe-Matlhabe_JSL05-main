@@ -1,4 +1,4 @@
-// JavaScript
+
 // Array of song objects with additional songs
 const songs = [
   { title: "Hooked on a Feeling", artist: "Blue Swede", genre: "Pop" },
